@@ -5,3 +5,7 @@ The purpose of this analysis is to provide information to investors considering 
 
 # Results
 The data cleaning process included dropping all currencies that were not actively traded, mined, or were without a working algorithm. This process more than halved our original dataset. Text variables were then transformed into binary values, and the data was scaled. Principal component analysis was performed to reduce the number of dimensions in our model, and an elbow-curve created to determine the ideal amount of clusters for our data. 
+
+![3d](3d_plot.png)
+
+![ref](reference.png)
