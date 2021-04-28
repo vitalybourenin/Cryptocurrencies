@@ -8,4 +8,4 @@ The data cleaning process included dropping all currencies that were not activel
 
 ![3d](3d_plot.png)
 
-![ref](reference.png)
+![ref](reference.PNG)
