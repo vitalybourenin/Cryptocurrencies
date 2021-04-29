@@ -9,10 +9,10 @@ The data cleaning process included dropping all currencies that were not activel
 
 Shown below are a 3-D plot of the clusters of our cryptocurrencies, as well as a table with releveant information for each coin. The last column "Class" indicates the cluster each coin was assigned by our model. 
 
-![3d](3d_plot.png)
+![3d](Resources/3d_plot.png)
 
 
-![ref](reference.PNG)
+![ref](Resources/reference.PNG)
 
 # Summary
 With the relevant coins now clustered, we can explore and discover patterns that could be relevant for investment purposes, or to be used in a supervised machine learning model. 
